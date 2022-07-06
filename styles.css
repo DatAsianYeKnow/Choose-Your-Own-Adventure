@@ -1,0 +1,381 @@
+.align {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-text {
+    text-align: center;
+    color: white;
+    background-position: center;
+
+
+}
+
+.menu-bg {
+    Height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-size: cover;
+    background-image: url(https://www.wallpapertip.com/wmimgs/171-1712901_landscape-4k-wallpaper-for-laptop.jpg);
+
+}
+
+.play-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.decline-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.quit-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.continue-button {
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    font-size: 30px;
+    background-image: url("https://media.istockphoto.com/photos/abstract-pattern-background-picture-id531000726?b=1&k=20&m=531000726&s=170667a&w=0&h=tXaYVTmEaSoYcIjkUEElZSJaf8J4OpSKs-kK_HQQAZY=");
+    width: 25%;
+}
+
+.cb-1 {
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    font-size: 30px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/12/20/07/48/ice-3029423_1280.jpg");
+    width: 25%;
+}
+
+.cb-2 {
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    font-size: 30px;
+    background-image: url("https://wallpaperaccess.com/full/2217435.jpg");
+    width: 25%;
+}
+
+.s-button {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("http://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-3.jpg");
+    Color: white;
+    font-size: 30px;
+}
+
+.c-button {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("http://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-3.jpg");
+    Color: white;
+    font-size: 30px;
+}
+
+.me-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ve-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ea-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ma-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ju-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.sa-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ur-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.ne-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.pb-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.pc-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.pd-button {
+    padding: 20px 0;
+    color: white;
+    outline: none;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 100%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10%;
+}
+
+.back-button {
+    color: white;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    font-size: 30px;
+    background-image: url("https://wallpaperaccess.com/full/39632.jpg");
+    width: 25%;
+}
+
+.img-hide {
+    margin: 30%;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 60%;
+    width: 20%;
+    height: 35vh;
+
+}
+
+.text-hide2 {
+    color: white;
+    text-align: center;
+}
+
+.text-hide1 {
+    color: white;
+    text-align: center;
+}
+
+
+.ss {
+    color: white;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.menu-space {
+    margin: 10%;
+}
+
+.dias-1 {
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+
+.diap-1 {
+    text-align: center;
+    color: white;
+}
+
+.diap-2 {
+    text-align: center;
+    color: white;
+}
+
+.diap-3 {
+    text-align: center;
+    color: white;
+}
+
+.yes {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/4-rocky-background-john-foxx.jpg");
+    Color: white;
+    font-size: 30px;
+
+}
+
+.no {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/4-rocky-background-john-foxx.jpg");
+    Color: white;
+    font-size: 30px;
+}
+
+.yes-1 {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("https://s3.envato.com/files/320438148/BSV06063.JPG");
+    Color: white;
+    font-size: 30px;
+    border-color: black;
+
+}
+
+.no-1 {
+    width: 45%;
+    padding: 15px 0;
+    background-image: url("https://s3.envato.com/files/320438148/BSV06063.JPG");
+    Color: white;
+    font-size: 30px;
+    border-color: black;
+
+}
+
+.end-1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.end-me {
+    color: white;
+    text-align: center;
+}
+
+.end-pc {
+    color: white;
+    text-align: center;
+
+}
+
+.end-pd {
+    color: black;
+    text-align: center;
+    background-color: white;
+
+}
+
+
+.play-again {
+    color: black;
+    position: fixed;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    font-size: 30px;
+    background-image: url("https://i.pinimg.com/originals/06/de/9f/06de9fcc1251a5a1a6f08a94bc05de1c.jpg");
+    width: 25%;
+}
